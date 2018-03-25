@@ -112,7 +112,7 @@
 				<qrcode color="{{ InnerContr.qrColors.color }}" 
 						background="{{ InnerContr.qrColors.background }}"
 						size="130" 
-						data="{{ 'siken:' + InnerContr.address.addrStr }}?label=SIKEN Mobile Wallet">
+						data="{{ 'siekn:' + InnerContr.address.addrStr }}?label=SIKEN Mobile Wallet">
 				</qrcode>
 			</a>
 		</div>

@@ -1,5 +1,5 @@
 {
-  "name": "insight",
+  "name": "Insight",
   "version": "0.0.1",
   "dependencies": {
     "angular": "1.5.0",
@@ -15,7 +15,7 @@
     "angular-ui-utils": "~0.1.1",
     "angular-gettext": "^2.3.9",
     "angular-moment": "^1.0.1",
-    "SIKENcore-lib": "git@gitlab.pixelplex.by:593_SIKEN/SIKENcore-lib.git",
+    "SIKEN-lib": "git://github.com/SIKENEKIS/SIKEN-lib.git",
     "jquery": "^3.2.1",
     "clipboard": "^1.6.1",
     "ngclipboard": "^1.1.1",

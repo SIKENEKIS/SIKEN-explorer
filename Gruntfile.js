@@ -37,7 +37,7 @@ module.exports = function(grunt) {
 				'public/lib/moment/locale/es.js',
 				'public/lib/moment/locale/ja.js',
 				'public/lib/bootstrap/dist/js/bootstrap.min.js',
-				'public/lib/SIKENcore-lib/SIKENcore-lib.js',
+				'public/lib/SIKEN-lib/SIKEN-lib.js',
 				'public/lib/clipboard/dist/clipboard.min.js',
 				'public/lib/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js',
 				'public/lib/chart.js/dist/Chart.min.js',

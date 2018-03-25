@@ -155,7 +155,7 @@ compile***.
 
 ## Note
 
-For more details about the [SIKEN API](https://github.com/SIKENEKIS/SIKEN-api) configuration and end-points, go to [SIKEN API](https://github.com/SIKENEKIS/insight-api).
+For more details about the [SIKEN API](https://github.com/SIKENEKIS/SIKEN-api) configuration and end-points, go to [SIKEN API](https://github.com/SIKENEKIS/SIKEN-api).
 
 ## Contribute
 
